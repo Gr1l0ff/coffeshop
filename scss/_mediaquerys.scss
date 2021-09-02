@@ -1,0 +1,60 @@
+//ipad
+@media screen and (max-width: 940px) {
+  .main-header {
+    
+    div {
+      font-size: 1.8rem;
+      transform: rotate(-15deg);
+      width: 70%;
+ 
+      
+     
+  }
+
+ 
+  }
+  
+ 
+}
+
+//mobile-friendly
+
+@media screen and (max-width: 790px) {
+
+  .section-about {
+    display: block;
+    div {
+  
+      width: 100%;
+      margin: 2rem 0;
+    }
+  }
+
+
+
+
+}
+
+
+//mobile
+
+@media screen and (max-width: 550px) {
+
+  .main-header {
+    
+    div {
+      font-size: 1.4rem;
+      transform: rotate(-5deg);
+      width: 70%;
+
+  }
+ 
+  }
+  .main-footer {
+   
+    font-size: 1.3rem;
+
+
+  }
+
+}
